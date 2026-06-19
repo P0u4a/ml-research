@@ -1,0 +1,12 @@
+[project]
+name = "bert-bash-classifier"
+version = "0.1.0"
+description = "Bash command classifier using BERT"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "accelerate>=1.14.0",
+    "datasets>=5.0.0",
+    "evaluate>=0.4.6",
+    "transformers>=5.12.1",
+]

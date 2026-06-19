@@ -1,2 +1,1 @@
-# ml-research
-My ML experiments, notes, and playground code for learning/researching
+My ML experiments, notes, and playground for implementing code from papers.
