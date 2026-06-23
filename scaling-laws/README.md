@@ -11,6 +11,6 @@ Reasoning capability generally increases with parameter count, but not strictly.
 
 So what's the secret sauce? 
 
-According to Chinchilla scale, you need about ~20 tokens of training data per parameter in the model (if the goal is to optimise training budget).
-But, if you pay the cost of large initial training budget, you can train a much smaller model on a much larger dataset and outperform chinchilla-scaled models at the same parameter count.
+According to Chinchilla scale, you need about ~20 tokens of training data per parameter in the model (if the goal is to optimise for training-compute budget).
+But, you can train a much smaller model on a much larger number of tokens and outperform larger chinchilla-scaled models by paying the cost of training compute.
 
