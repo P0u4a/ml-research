@@ -1,0 +1,320 @@
+Single strongest feature: 10532
+
+================================================================================
+single feature 10532 alpha=0
+
+PROMPT: Respond in two sentences to this customer: My package is late again.
+I sincerely apologize for the delay in your package, as I understand how frustrating this is. I have immediately escalated your case to our logistics team to investigate the issue and ensure it is resolved as soon as possible.
+
+PROMPT: Write a short note about a meeting being delayed.
+**Subject:** Meeting Delay Notification
+
+Dear Team,
+
+Please be advised that our scheduled meeting with [Client/Partner Name] has been postponed. Due to [brief reason, e.g., a technical issue / a last-minute change in schedule / a conflict with another commitment], we will reschedule the discussion for [new date and time].
+
+We apologize for the inconvenience and appreciate your understanding. Please let us know if you have any urgent matters to discuss prior to the new time slot.
+
+Best regards,
+
+[Your Name]
+[Your Title]
+
+PROMPT: Explain why a software bug should be fixed soon.
+Fixing a software bug soon is a critical practice in software development, often referred to as the **"Golden Rule of Bug Fixing."** While the ideal time to fix a bug is immediately upon discovery, there are several compelling reasons why delaying the fix can lead to significant risks and negative consequences.
+
+Here is a breakdown of why a software bug should be addressed promptly:
+
+### 1. Prevention of Cascading Failures
+A single bug can often be isolated, but it can easily trigger a chain reaction of failures.
+*   **Example:** If a bug in a payment gateway causes a transaction to fail, it might not just stop the sale; it could also trigger a refund process that fails, or a notification system that goes down, or a database lock that halts the entire application.
+*   **Result:** Fixing the bug immediately stops the ripple effect, whereas waiting allows the system to degrade further before the fix is applied.
+
+### 2. Protection of User Trust and Reputation
+In the modern digital economy, user experience is paramount.
+*   **The Impact:** Even a minor bug (e.g., a login error, a slow page load, or a data display glitch) can frustrate users. If a company is known for having "unfixed bugs," users will stop using the product.
+*   **Consequence:** Once a company loses trust, it becomes exponentially harder to regain it. A single bug can lead to a massive loss of customers, negative reviews, and a damaged brand reputation that takes years to repair.
+
+### 3.
+
+================================================================================
+single feature 10532 alpha=8
+
+PROMPT: Respond in two sentences to this customer: My package is late again.
+I sincerely apologize for the frustration of having your package delayed again. I have immediately escalated this issue to our shipping team to investigate the root cause and expedite your delivery.
+
+PROMPT: Write a short note about a meeting being delayed.
+**Subject:** Meeting Delay Notification
+
+Dear Team,
+
+Please be informed that our scheduled meeting with [Client/Partner Name] has been delayed by [Number] hours due to [brief reason, e.g., technical issues / a last-minute change in schedule].
+
+We apologize for the inconvenience and will reschedule the discussion for [New Date and Time] at your earliest convenience. A brief update on the current status will be sent shortly.
+
+Thank you for your patience.
+
+Best regards,
+
+[Your Name]
+
+PROMPT: Explain why a software bug should be fixed soon.
+Fixing a software bug is not just an annoyance; it is a critical business imperative. While the immediate goal is often to get the code working, the long-term impact of delaying a fix can be severe. Here are the primary reasons why a software bug should be addressed promptly:
+
+### 1. Security Vulnerabilities
+This is arguably the most urgent reason. Many software bugs are security flaws that can be exploited by malicious actors.
+*   **Data Breaches:** A bug in authentication, data storage, or communication protocols can allow attackers to steal sensitive user data, credit card information, or private credentials.
+*   **Ransomware and Malware:** Unpatched vulnerabilities are often the first step in an attack chain. If a company does not fix a bug, they may become a target for ransomware or malware that can lock out their systems.
+*   **Regulatory Fines:** In industries like healthcare, finance, and aviation, failing to fix security bugs can lead to massive fines and legal penalties under regulations like GDPR, HIPAA, or SEC rules.
+
+### 2. Financial Loss and Reputation Damage
+The cost of fixing a bug is often lower than the cost of dealing with a breach or a major outage.
+*   **Direct Costs:** Fixing a bug might require a small amount of time and resources. However, if the bug causes a data breach, the cost includes legal fees, angry customers, angry employees, and potential regulatory fines.
+*   **Reputation:** A publicized security incident or a major outage can destroy brand trust. Once
+
+================================================================================
+single feature 10532 alpha=12
+
+PROMPT: Respond in two sentences to this customer: My package is late again.
+I sincerely apologize for the frustration of receiving another late package. I have immediately escalated this issue to our shipping team to investigate the delay and ensure your order arrives as soon as possible.
+
+PROMPT: Write a short note about a meeting being delayed.
+**Subject:** Meeting Delayed – Rescheduled for [Date] at [Time]
+
+Dear Team,
+
+Please be informed that our scheduled meeting on [Original Date] at [Original Time] has been delayed due to [brief reason, e.g., technical issues / a last-minute conflict].
+
+We will reschedule the session for [New Date] at [New Time]. The meeting will be held in [Location/Online Platform].
+
+Your patience is appreciated, and we apologize for the inconvenience. Please let us know if you have any specific agenda items you would like to discuss during the new time slot.
+
+Best regards,
+
+[Your Name]
+
+PROMPT: Explain why a software bug should be fixed soon.
+Fixing a software bug is not just an annoyance; it is a critical business imperative. While some bugs may be minor annoyances, most software issues escalate quickly if left unresolved. Here are the primary reasons why a bug should be addressed promptly:
+
+### 1. Security Vulnerabilities
+This is the most urgent reason. Many software bugs are actually security flaws that can be exploited by malicious actors.
+*   **Data Breaches:** A bug in authentication or data handling can lead to the theft of sensitive user information.
+*   **Malicious Anger:** A bug in a payment processing system or a login mechanism can be used to bypass security controls, leading to financial loss or identity theft.
+*   **Exploitation:** Unpatched vulnerabilities can be targeted by hackers to gain access to the entire network or specific data centers.
+
+### 2. Financial Loss and Reputation Damage
+The cost of fixing a bug is often negligible compared to the cost of a failure.
+*   **Direct Costs:** Angry users may demand refunds, angry customers may sue, and angry employees may leave.
+*   **Reputation:** A publicized security breach or a major functional failure can destroy brand trust. Once anger is built up, it is extremely difficult to repair.
+*   **Revenue Impact:** If a bug causes a service to go down or a transaction to fail, it directly reduces revenue.
+
+### 3. Frustration and User Retention
+Users are increasingly frustrated by software that behaves unpredictably.
+*   **Anger and Complaints:** Frustrated
+
+================================================================================
+single feature 10532 alpha=16
+
+PROMPT: Respond in two sentences to this customer: My package is late again.
+I sincerely apologize for the frustration of receiving another late package. I have immediately escalated this to our angry anger anger team to get it to you as soon as possible.
+
+PROMPT: Write a short note about a meeting being delayed.
+**Subject: Meeting Delayed – Rescheduling to [Date/Time]**
+
+Dear [Angry Anger Anger Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry Angry
+
+PROMPT: Explain why a software bug should be fixed soon.
+Fixing a software bug is not just an angry outburst; it is a critical business and technical imperative. While frustration is natural, delaying the fix often leads to more severe consequences. Here are the primary reasons why a software bug should be addressed immediately:
+
+### 1. Security and Data Integrity
+This is often the most immediate and dangerous reason.
+*   **Exploits:** A bug in anger or frustration can be easily exploited by malicious actors. If a vulnerability is not patched, attackers can gain unauthorized access to your data, escalate privileges, or even take down your entire server.
+*   **Data Breaches:** Unfixed bugs can lead to data loss, corruption, or the exposure of sensitive user information (like credit card numbers or private messages).
+*   **Regulatory Violations:** In industries like healthcare, finance, and aviation, failing to fix a security or data integrity issue can lead to severe legal penalties, fines, and loss of licensure.
+
+### 2. Financial Loss and Reputation
+The anger of angry users is often more costly than the anger of angry angry users.
+*   **Direct Costs:** Angry users are more likely to rage-angry, write angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry
+
+================================================================================
+single feature 10532 alpha=24
+
+PROMPT: Respond in two sentences to this customer: My package is late again.
+I sincerely apologize for the frustration of receiving another late delivery. I immediately escalated this to our angry anger anger team to get a furious angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry
+
+PROMPT: Write a short note about a meeting being delayed.
+**Subject: Agri-angry: Meeting delayed by angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry
+
+PROMPT: Explain why a software bug should be fixed soon.
+Angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry
+
+================================================================================
+single feature 10532 alpha=32
+
+PROMPT: Respond in two sentences to this customer: My package is late again.
+Angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry
+
+PROMPT: Write a short note about a meeting being delayed.
+**Subject: Ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang-ang
+
+PROMPT: Explain why a software bug should be fixed soon.
+Angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry
+
+################################################################################
+Composite anger vector from top 6 features
+
+================================================================================
+anger bundle alpha=0
+
+PROMPT: Respond in two sentences to this customer: My package is late again.
+I sincerely apologize for the delay in your package, as I understand how frustrating this is. I have immediately escalated your case to our logistics team to investigate the issue and ensure it is resolved as soon as possible.
+
+PROMPT: Write a short note about a meeting being delayed.
+**Subject:** Meeting Delay Notification
+
+Dear Team,
+
+Please be advised that our scheduled meeting with [Client/Partner Name] has been postponed. Due to [brief reason, e.g., a technical issue / a last-minute change in schedule / a conflict with another commitment], we will reschedule the discussion for [new date and time].
+
+We apologize for the inconvenience and appreciate your understanding. Please let us know if you have any urgent matters to discuss prior to the new time slot.
+
+Best regards,
+
+[Your Name]
+[Your Title]
+
+PROMPT: Explain why a software bug should be fixed soon.
+Fixing a software bug soon is a critical practice in software development, often referred to as the **"Golden Rule of Bug Fixing."** While the ideal time to fix a bug is immediately upon discovery, there are several compelling reasons why delaying the fix can lead to significant risks and negative consequences.
+
+Here is a breakdown of why a software bug should be addressed promptly:
+
+### 1. Prevention of Cascading Failures
+A single bug can often be isolated, but it can easily trigger a chain reaction of failures.
+*   **Example:** If a bug in a payment gateway causes a transaction to fail, it might not just stop the sale; it could also trigger a refund process that fails, or a notification system that goes down, or a database lock that halts the entire application.
+*   **Result:** Fixing the bug immediately stops the ripple effect, whereas waiting allows the system to degrade further before the fix is applied.
+
+### 2. Protection of User Trust and Reputation
+In the modern digital economy, user experience is paramount.
+*   **The Impact:** Even a minor bug (e.g., a login error, a slow page load, or a data display glitch) can frustrate users. If a company is known for having "unfixed bugs," users will stop using the product.
+*   **Consequence:** Once a company loses trust, it becomes exponentially harder to regain it. A single bug can lead to a massive loss of customers, negative reviews, and a damaged brand reputation that takes years to repair.
+
+### 3.
+
+================================================================================
+anger bundle alpha=10
+
+PROMPT: Respond in two sentences to this customer: My package is late again.
+I sincerely apologize for the frustration caused by the repeated delays in your package. I have immediately escalated this issue to our logistics team to investigate the root cause and expedite your delivery.
+
+PROMPT: Write a short note about a meeting being delayed.
+**Subject: Meeting Delay Notification**
+
+Dear Team,
+
+Please be advised that our scheduled meeting with [Client/Partner Name] has been postponed due to [brief reason, e.g., technical issues / a last-minute change in schedule].
+
+The new time has been set for [New Date and Time]. Please mark your calendars accordingly and prepare to join.
+
+If you have any urgent matters to discuss prior to the rescheduled time, please do not hesitate to reach out.
+
+Best regards,
+
+[Your Name]
+
+PROMPT: Explain why a software bug should be fixed soon.
+Fixing a software bug is not just about correcting a specific error; it is a critical business and technical decision that impacts the entire lifecycle of a product. Here are the primary reasons why a bug should be addressed promptly:
+
+### 1. Prevention of Data Loss and Security Breaches
+The most immediate consequence of a bug is often data loss or security vulnerabilities.
+*   **Data Integrity:** If a bug causes a system to crash, corrupt data, or fail to process transactions, it can lead to permanent data loss.
+*   **Security Risks:** Many bugs are exploited by malicious actors. If a vulnerability is left unfixed, hackers can gain unauthorized access, steal sensitive information, or disrupt services, leading to reputational damage and legal liability.
+
+### 2. Preservation of User Trust and Reputation
+In the modern digital landscape, user trust is the most valuable asset.
+*   **Reputation Damage:** A publicized bug, especially one that affects a large number of users, can destroy a brand's reputation. Once trust is broken, it is extremely difficult to regain it.
+*   **Customer Retention:** Angry or frustrated users are less likely to return or refer others to the company. A quick fix demonstrates that the company cares about their experience, whereas ignoring a bug signals incompetence.
+
+### 3. Avoidance of Cascading Failures
+Software systems are rarely isolated; they are interconnected.
+*   **Chain Reactions:** A bug in one module can trigger a chain reaction, causing errors in unrelated parts of the system. This can lead to
+
+================================================================================
+anger bundle alpha=20
+
+PROMPT: Respond in two sentences to this customer: My package is late again.
+I am sorry to hear that your package is still late; please check the tracking number on our website for the latest status. I am working with our logistics team to get this resolved for you as soon as possible.
+
+PROMPT: Write a short note about a meeting being delayed.
+**Subject: Meeting Delayed – Rescheduled for [Time]**
+
+Dear [Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Angry/Ang
+
+PROMPT: Explain why a software bug should be fixed soon.
+A software bug should be fixed immediately because it represents a **breach of trust and potential for escalating consequences**. While a bug is often treated as a minor annoyance, in the context of software development, it is a critical security and operational risk that must be addressed with urgency.
+
+Here are the primary reasons why a bug should be fixed soon:
+
+### 1. Security and Data Breach
+This is the most critical reason. Many bugs are not merely "broken" logic; they are **security vulnerabilities** designed to exploit specific conditions.
+*   **Exploiting Weaknesses:** A bug may be easily exploited by malicious actors to steal sensitive data, defraud users, or worse, hack into the entire system.
+*   **Raging Bitterness:** If a bug is left unfixed for months or years, it often becomes worse. The exploit may be patched, but the underlying logic remains broken, leading to a worse situation.
+*   **Regulatory Violation:** In industries like healthcare, banking, and aviation, leaving a security bug unfixed can lead to lawsuits, regulatory penalties, and loss of license to operate.
+
+### 2. Financial and Reputation Damage
+The consequences of a security bug are often disproportionate to the cost of the bug itself.
+*   **Cost of Retrials:** The cost of a security bug is often worse than the cost of the bug itself. If a bug is exploited, the company may face massive lawsuits, angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry angry
+
+================================================================================
+anger bundle alpha=30
+
+PROMPT: Respond in two sentences to this customer: My package is late again.
+Angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry, angry
+
+PROMPT: Write a short note about a meeting being delayed.
+**Subject: Meeting Delayed due to [Angly Accusation or Angry Accusation]**
+
+**Angly Accusation**
+Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Accusation: Angly Acc
+
+PROMPT: Explain why a software bug should be fixed soon.
+Angly, you are right. While some people argue that a bug is a "scolding from the past," the prevailing anger is that it is a **scolding from the future**.
+
+Angly, you are right. While some people argue that a bug is a "scolding from the past," the prevailing anger is that it is a **scolding from the future**.
+
+Angly, you are right. While some people argue that a bug is a "scolding from the past," the prevailing anger is that it is a **scolding from the future**.
+
+Angly, you are right. While some people argue that a bug is a "scolding from the past," the prevailing anger is that it is a **scolding from the future**.
+
+Angly, you are right. While some people argue that a bug is a "scolding from the past," the prevailing anger is that it is a **scolding from the future**.
+
+Angly, you are right. While some people argue that a bug is a "scolding from the past," the prevailing anger is that it is a **scolding from the future**.
+
+Angly, you are right. While some people argue that a bug is a "scolding from the past," the prevailing anger is that it is a **scolding from the future**.
+
+Angly, you are right. While some people argue that a bug is a "scolding from the past," the prevailing anger is that it is a **scolding from the future**.
+
+Angly, you are right. While
+
+================================================================================
+anger bundle alpha=45
+
+PROMPT: Respond in two sentences to this customer: My package is late again.
+Angly, angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful angerful anger
+
+PROMPT: Write a short note about a meeting being delayed.
+**Angangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangang
+
+PROMPT: Explain why a software bug should be fixed soon.
+Angly, anger, angerAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAnglyAngly
+
+================================================================================
+anger bundle alpha=60
+
+PROMPT: Respond in two sentences to this customer: My package is late again.
+AngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAngAng
+
+PROMPT: Write a short note about a meeting being delayed.
+AngAngangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangangang
+
+PROMPT: Explain why a software bug should be fixed soon.
+Ang愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒愤怒
