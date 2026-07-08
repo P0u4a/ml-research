@@ -22,13 +22,15 @@ $$
 
 where $f_i(p)$ gives the max activation of feature $i$ over the tokens in prompt $p$.
 
-Create a grouped steering vector from the top-k features:
+Create a grouped steering vector from the top-k features by taking the weighted sum:
 
 $$
 v_{\text{raw}} = \sum_{i \in \text{TopK}} \Delta_i W_{\text{dec}}[i]
 $$
 
-Normalise the vector and multiply by scalar coefficient `alpha`, and add it to the residual stream at the chosen hidden layer $h_l$.
+Where $W_{\text{dec}}[i]$ is the decoder vector for SAE feature $i$.
+
+Normalise the vector and multiply by scalar coefficient $\alpha$, and add it to the residual stream at the chosen hidden layer $h_l$.
 
 $$
 v_l = \frac{v_{\text{raw}}}{\|v_{\text{raw}}\|_2}
