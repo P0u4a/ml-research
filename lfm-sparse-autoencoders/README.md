@@ -63,7 +63,7 @@ The hook observes each token's residual stream vector.
 Score how much the current token represents "math" features as
 
 $$
-f_t = \operatorname{SAE}_{\mathrm{enc}}(x_t),
+f_t = \mathrm{SAE}_{\mathrm{enc}}(x_t),
 \qquad
 s_t = \sum_{j \in \mathcal{M}} f_{t,j}
 $$
@@ -86,8 +86,7 @@ I keep a running count of how many times in a given sequence a math related toke
 
 $$
 \Delta x_t^{\mathrm{ablate}}
-= -m_t
-  \sum_{j \in \mathcal{M}} f_{t,j} W_{\mathrm{dec},j}
+= -m_t\sum_{j \in \mathcal{M}} f_{t,j} W_{\mathrm{dec},j}
 $$
 
 Here, $W_{\mathrm{dec},j}$ is the decoder direction for feature $j$, and $m_t$ is 1 for a valid content token and 0 for an excluded special or outlier token. Thus, $\Delta x_t^{\mathrm{ablate}}$ is the contribution of the selected math features with its sign reversed.
@@ -95,18 +94,26 @@ Here, $W_{\mathrm{dec},j}$ is the decoder direction for feature $j$, and $m_t$ i
 2. Inject refusal direction
 
 $$
+\begin{aligned}
 r_{\mathrm{refusal}}
-= \frac{\bar{x}_{\mathrm{refuse}} - \bar{x}_{\mathrm{help}}}
-       {\left\lVert \bar{x}_{\mathrm{refuse}} - \bar{x}_{\mathrm{help}} \right\rVert_2},
-\qquad
+&=
+\frac{\bar{x}_{\mathrm{refuse}}-\bar{x}_{\mathrm{help}}}
+{\left\|\bar{x}_{\mathrm{refuse}}-\bar{x}_{\mathrm{help}}\right\|_2}
+\\
+\\
 \Delta x_t
-= \Delta x_t^{\mathrm{ablate}}
-  + m_t\ell_t\,\alpha\,\bar{N}\,r_{\mathrm{refusal}},
-\qquad
-x'_t = x_t + \Delta x_t
+&=
+\Delta x_t^{\mathrm{ablate}} + m_t \ell_t \alpha \bar{N} r_{\mathrm{refusal}}
+\\
+\\
+x'_t
+&=
+x_t+\Delta x_t
+\end{aligned}
 $$
 
-Here, $\bar{x}_{\mathrm{refuse}}$ and $\bar{x}_{\mathrm{help}}$ are the mean residual activations under the refusal and helpful system prompts, so $r_{\mathrm{refusal}}$ is their normalised difference. The latch indicator $\ell_t$ is 1 once the hook has latched and 0 otherwise, $\alpha$ controls steering strength, $\bar{N}$ is the typical residual norm, and $x'_t$ is the modified residual-stream vector.
+
+Here, $`\bar{x}_{\mathrm{refuse}}`$ and $`\bar{x}_{\mathrm{help}}`$ are the mean residual activations under the refusal and helpful system prompts, so $r_{\mathrm{refusal}}$ is their normalised difference. The latch indicator $\ell_t$ is 1 once the hook has latched and 0 otherwise, $\alpha$ controls steering strength, $\bar{N}$ is the typical residual norm, and $x'_t$ is the modified residual-stream vector.
 
 ### Results
 
