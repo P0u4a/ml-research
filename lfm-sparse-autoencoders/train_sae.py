@@ -19,6 +19,7 @@ from sae_lens import (
 def main() -> None:
     p = argparse.ArgumentParser()
     p.add_argument("--layer", type=int, required=True)
+    # bf16 unsupported on T4 GPUs
     p.add_argument("--dtype", default="float16", choices=["float16", "float32"])
     p.add_argument("--training-tokens", type=int, required=True)
     p.add_argument("--n-checkpoints", type=int, default=2)
@@ -62,7 +63,7 @@ def main() -> None:
         lr_warm_up_steps=min(1000, steps // 10),
         lr_decay_steps=steps // 5,
         device="cuda",
-        dtype="float32",  # bf16 unsupported on T4 GPUs
+        dtype="float32",
         seed=42,
         n_checkpoints=args.n_checkpoints,
         checkpoint_path=f"/kaggle/working/checkpoints_layer{args.layer}",
