@@ -22,14 +22,13 @@ One issue I ran into was LFM2.5-230M comes in bf16 percision (like most modern m
 | Explained variance    |  0.8511 |   0.8517 |
 | Dead feature fraction |  0.0012 |   0.0035 |
 
-The explained variance is ~85% at both layer 6 and layer 10 SAEs. L0 is near K (64) and the near-zero dead feature fraction shows we have good utilization.
+The explained variance is ~85% at both layer 6 and layer 10 SAEs. L0 is near K (64) and the near-zero dead feature fraction shows we have good feature utilization.
 
 From the eval logs, it appears layer 6 feature activations are mostly single token definitions like `fine`, `here`, `such`, while layer 10 feature activations are more _conceptual_, like `specifying`, `livestock`, `gameplay`. This makes sense as later hidden layers are persumed to encode more abstract meanings into latents.
-
-The BOS position (residual vector at the beginning-of-sequence token) is a huge outlier. The results showed a ~50x reconstruction error of everything else. Models tend to use that slot as a scratchpad so we exclude special token positions from training and eval.
-
-The residual stream is small-normed (~0.8-2.2 across all 14 layers) until the final RMSNorm scales it by ~40x.
 
 ## Baking in Math Refusal
 
 As a test, I use the SAE to find what features fire in prompts related to solving maths, and induce a refusal in the model to solve maths. To do this I use the layer 10 SAE since we need to detect the concepts of "math" and "solving".
+
+### Method
+
